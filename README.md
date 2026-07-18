@@ -40,6 +40,6 @@ International university cancer centers utilize KureaSH™ under active Investig
 
 To maintain compliance across international regulatory matrices, the following operational documentation must accompany every bulk automated shipment:
 
-1.  **Certificate of Analysis (COA) Matching:** Every batch processed by NAKED must possess a verified laboratory analysis detailing chemical purity, verified heavy-metal screen parameters, and a matching lot number matching the physical label.
+1.  **Certificate of Analysis (COA) Matching:** Every batch processed by VirusTC must possess a verified laboratory analysis detailing chemical purity, verified heavy-metal screen parameters, and a matching lot number matching the physical label.
 2.  **Customs Invoice Declaration:** Shipments crossing international borders must carry documentation identifying the cargo as a *Dietary Supplement Substance for Clinical Research Purposes Only*, citing **FDA GRAS Notice GRN 931** for food-safety customs clearances alongside your internal corporate acquisition deeds for **FDA Orphan #298309**.
 3.  **Private Label Chain of Custody:** To satisfy routine Amazon global account verification audits, maintain a legally executed *Manufacturing Agreement* and *Quality Agreement* explicitly identifying your organization as the brand owner and intellectual property holder, and NAKED as the verified private label manufacturer.
