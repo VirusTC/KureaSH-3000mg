@@ -1,0 +1,4 @@
+Isolate_ID,Compound_Matrix,Charge_State,Net_Dipole_Debyes,μ_x_Debyes,μ_y_Debyes,μ_z_Debyes,α_avg_Å3,α_xx_Å3,α_yy_Å3,α_zz_Å3,Max_Field_Length_Å,Resonant_Transporter_Target,Biophysical_Role
+Cr-MONO-001,Creatine_Monohydrate_Crystal,Neutral_Ground,1.85,1.21,0.95,0.88,14.25,16.80,13.40,12.55,6.15,None,Crystalline_hydration_spacer_prevents_gastric_cyclization
+Cr-ZWIT-002,Creatine_Zwitterion_Solvated,Aqueous_Zwitterionic,4.82,4.55,1.15,0.82,15.62,22.40,12.80,11.66,8.24,SLC6A8_CrT1_Gate,Intense_permanent_dipole_drives_long_range_kinetic_draw
+Cr-PHOS-003,Phosphocreatine_Anion,Anionic_Phosphagen,6.12,5.80,1.42,1.10,18.44,26.15,15.22,13.95,9.85,Creatine_Kinase_Matrix,High_energy_phosphate_donor_for_rapid_ADP_to_ATP_resuscitation
